@@ -1,0 +1,246 @@
+# COPA 2026 — LIVE SCOREBOARD BASE
+# Arquivo para o n8n ler e transformar em JSON dinâmico.
+# Não colocar este arquivo no GitHub conectado ao Netlify.
+#
+# Formato por linha:
+# match_id|date|group|home_id|away_id|status|home_score|away_score|minute|note
+#
+# status permitido: scheduled | live | halftime | finished | postponed | cancelled
+# Exemplos:
+# G-G-01|2026-06-15|G|BEL|EGY|live|1|1|72|
+# G-G-01|2026-06-15|G|BEL|EGY|finished|1|1|FT|
+#
+# Regra prática: durante o jogo, altere apenas status, home_score, away_score e minute.
+# Para jogo ainda não iniciado, deixe placares e minuto em branco.
+# Atualização: resultados disponíveis até 2026-06-15 consolidados; jogos de 2026-06-16 permanecem scheduled até confirmação manual.
+
+# ============================================================
+# JOGOS DE HOJE — 2026-06-16 — America/Campo_Grande
+# Atualize somente status, home_score, away_score e minute.
+#
+# G-I-01|2026-06-16|I|FRA|SEN|scheduled||||
+# G-I-02|2026-06-16|I|IRQ|NOR|scheduled||||
+# G-J-01|2026-06-16|J|ARG|ALG|scheduled||||
+# G-J-02|2026-06-16|J|AUT|JOR|scheduled||||
+#
+# Exemplos de atualização durante o jogo:
+# G-I-01|2026-06-16|I|FRA|SEN|live|1|0|37|
+# G-I-01|2026-06-16|I|FRA|SEN|halftime|1|0|HT|
+# G-I-01|2026-06-16|I|FRA|SEN|finished|2|1|FT|
+# ============================================================
+
+# Rodada 1 — Grupo A — México x África do Sul — 2026-06-11 13:00 UTC-6
+G-A-01|2026-06-11|A|MEX|RSA|finished|2|0|FT|
+
+# Rodada 1 — Grupo A — Coreia do Sul x Tchéquia — 2026-06-11 20:00 UTC-6
+G-A-02|2026-06-11|A|KOR|CZE|finished|2|1|FT|
+
+# Rodada 8 — Grupo A — Tchéquia x África do Sul — 2026-06-18 12:00 UTC-4
+G-A-03|2026-06-18|A|CZE|RSA|scheduled||||
+
+# Rodada 8 — Grupo A — México x Coreia do Sul — 2026-06-18 19:00 UTC-6
+G-A-04|2026-06-18|A|MEX|KOR|scheduled||||
+
+# Rodada 14 — Grupo A — Tchéquia x México — 2026-06-24 19:00 UTC-6
+G-A-05|2026-06-24|A|CZE|MEX|scheduled||||
+
+# Rodada 14 — Grupo A — África do Sul x Coreia do Sul — 2026-06-24 19:00 UTC-6
+G-A-06|2026-06-24|A|RSA|KOR|scheduled||||
+
+# Rodada 2 — Grupo B — Canadá x Bósnia e Herzegovina — 2026-06-12 15:00 UTC-4
+G-B-01|2026-06-12|B|CAN|BIH|finished|1|1|FT|
+
+# Rodada 3 — Grupo B — Catar x Suíça — 2026-06-13 12:00 UTC-7
+G-B-02|2026-06-13|B|QAT|SUI|finished|1|1|FT|
+
+# Rodada 8 — Grupo B — Suíça x Bósnia e Herzegovina — 2026-06-18 12:00 UTC-7
+G-B-03|2026-06-18|B|SUI|BIH|scheduled||||
+
+# Rodada 8 — Grupo B — Canadá x Catar — 2026-06-18 15:00 UTC-7
+G-B-04|2026-06-18|B|CAN|QAT|scheduled||||
+
+# Rodada 14 — Grupo B — Suíça x Canadá — 2026-06-24 12:00 UTC-7
+G-B-05|2026-06-24|B|SUI|CAN|scheduled||||
+
+# Rodada 14 — Grupo B — Bósnia e Herzegovina x Catar — 2026-06-24 12:00 UTC-7
+G-B-06|2026-06-24|B|BIH|QAT|scheduled||||
+
+# Rodada 3 — Grupo C — Brasil x Marrocos — 2026-06-13 18:00 UTC-4
+G-C-01|2026-06-13|C|BRA|MAR|finished|1|1|FT|
+
+# Rodada 3 — Grupo C — Haiti x Escócia — 2026-06-13 21:00 UTC-4
+G-C-02|2026-06-13|C|HAI|SCO|finished|0|1|FT|
+
+# Rodada 9 — Grupo C — Escócia x Marrocos — 2026-06-19 18:00 UTC-4
+G-C-03|2026-06-19|C|SCO|MAR|scheduled||||
+
+# Rodada 9 — Grupo C — Brasil x Haiti — 2026-06-19 20:30 UTC-4
+G-C-04|2026-06-19|C|BRA|HAI|scheduled||||
+
+# Rodada 14 — Grupo C — Escócia x Brasil — 2026-06-24 18:00 UTC-4
+G-C-05|2026-06-24|C|SCO|BRA|scheduled||||
+
+# Rodada 14 — Grupo C — Marrocos x Haiti — 2026-06-24 18:00 UTC-4
+G-C-06|2026-06-24|C|MAR|HAI|scheduled||||
+
+# Rodada 2 — Grupo D — Estados Unidos x Paraguai — 2026-06-12 18:00 UTC-7
+G-D-01|2026-06-12|D|USA|PAR|finished|4|1|FT|
+
+# Rodada 3 — Grupo D — Austrália x Turquia — 2026-06-13 21:00 UTC-7
+G-D-02|2026-06-13|D|AUS|TUR|finished|2|0|FT|
+
+# Rodada 9 — Grupo D — Estados Unidos x Austrália — 2026-06-19 12:00 UTC-7
+G-D-03|2026-06-19|D|USA|AUS|scheduled||||
+
+# Rodada 9 — Grupo D — Turquia x Paraguai — 2026-06-19 20:00 UTC-7
+G-D-04|2026-06-19|D|TUR|PAR|scheduled||||
+
+# Rodada 15 — Grupo D — Turquia x Estados Unidos — 2026-06-25 19:00 UTC-7
+G-D-05|2026-06-25|D|TUR|USA|scheduled||||
+
+# Rodada 15 — Grupo D — Paraguai x Austrália — 2026-06-25 19:00 UTC-7
+G-D-06|2026-06-25|D|PAR|AUS|scheduled||||
+
+# Rodada 4 — Grupo E — Alemanha x Curaçao — 2026-06-14 12:00 UTC-5
+G-E-01|2026-06-14|E|GER|CUW|finished|7|1|FT|
+
+# Rodada 4 — Grupo E — Costa do Marfim x Equador — 2026-06-14 19:00 UTC-4
+G-E-02|2026-06-14|E|CIV|ECU|finished|1|0|FT|
+
+# Rodada 10 — Grupo E — Alemanha x Costa do Marfim — 2026-06-20 16:00 UTC-4
+G-E-03|2026-06-20|E|GER|CIV|scheduled||||
+
+# Rodada 10 — Grupo E — Equador x Curaçao — 2026-06-20 19:00 UTC-5
+G-E-04|2026-06-20|E|ECU|CUW|scheduled||||
+
+# Rodada 15 — Grupo E — Curaçao x Costa do Marfim — 2026-06-25 16:00 UTC-4
+G-E-05|2026-06-25|E|CUW|CIV|scheduled||||
+
+# Rodada 15 — Grupo E — Equador x Alemanha — 2026-06-25 16:00 UTC-4
+G-E-06|2026-06-25|E|ECU|GER|scheduled||||
+
+# Rodada 4 — Grupo F — Países Baixos x Japão — 2026-06-14 15:00 UTC-5
+G-F-01|2026-06-14|F|NED|JPN|finished|2|2|FT|
+
+# Rodada 4 — Grupo F — Suécia x Tunísia — 2026-06-14 20:00 UTC-6
+G-F-02|2026-06-14|F|SWE|TUN|finished|5|1|FT|
+
+# Rodada 10 — Grupo F — Países Baixos x Suécia — 2026-06-20 12:00 UTC-5
+G-F-03|2026-06-20|F|NED|SWE|scheduled||||
+
+# Rodada 10 — Grupo F — Tunísia x Japão — 2026-06-20 22:00 UTC-6
+G-F-04|2026-06-20|F|TUN|JPN|scheduled||||
+
+# Rodada 15 — Grupo F — Japão x Suécia — 2026-06-25 18:00 UTC-5
+G-F-05|2026-06-25|F|JPN|SWE|scheduled||||
+
+# Rodada 15 — Grupo F — Tunísia x Países Baixos — 2026-06-25 18:00 UTC-5
+G-F-06|2026-06-25|F|TUN|NED|scheduled||||
+
+# Rodada 5 — Grupo G — Bélgica x Egito — 2026-06-15 12:00 UTC-7
+G-G-01|2026-06-15|G|BEL|EGY|finished|1|1|FT|
+
+# Rodada 5 — Grupo G — Irã x Nova Zelândia — 2026-06-15 18:00 UTC-7
+G-G-02|2026-06-15|G|IRN|NZL|finished|2|2|FT|
+
+# Rodada 11 — Grupo G — Bélgica x Irã — 2026-06-21 12:00 UTC-7
+G-G-03|2026-06-21|G|BEL|IRN|scheduled||||
+
+# Rodada 11 — Grupo G — Nova Zelândia x Egito — 2026-06-21 18:00 UTC-7
+G-G-04|2026-06-21|G|NZL|EGY|scheduled||||
+
+# Rodada 16 — Grupo G — Egito x Irã — 2026-06-26 20:00 UTC-7
+G-G-05|2026-06-26|G|EGY|IRN|scheduled||||
+
+# Rodada 16 — Grupo G — Nova Zelândia x Bélgica — 2026-06-26 20:00 UTC-7
+G-G-06|2026-06-26|G|NZL|BEL|scheduled||||
+
+# Rodada 5 — Grupo H — Espanha x Cabo Verde — 2026-06-15 12:00 UTC-4
+G-H-01|2026-06-15|H|ESP|CPV|finished|0|0|FT|
+
+# Rodada 5 — Grupo H — Arábia Saudita x Uruguai — 2026-06-15 18:00 UTC-4
+G-H-02|2026-06-15|H|KSA|URU|finished|1|1|FT|
+
+# Rodada 11 — Grupo H — Espanha x Arábia Saudita — 2026-06-21 12:00 UTC-4
+G-H-03|2026-06-21|H|ESP|KSA|scheduled||||
+
+# Rodada 11 — Grupo H — Uruguai x Cabo Verde — 2026-06-21 18:00 UTC-4
+G-H-04|2026-06-21|H|URU|CPV|scheduled||||
+
+# Rodada 16 — Grupo H — Cabo Verde x Arábia Saudita — 2026-06-26 19:00 UTC-5
+G-H-05|2026-06-26|H|CPV|KSA|scheduled||||
+
+# Rodada 16 — Grupo H — Uruguai x Espanha — 2026-06-26 18:00 UTC-6
+G-H-06|2026-06-26|H|URU|ESP|scheduled||||
+
+# Rodada 6 — Grupo I — França x Senegal — 2026-06-16 15:00 UTC-4
+G-I-01|2026-06-16|I|FRA|SEN|scheduled||||
+
+# Rodada 6 — Grupo I — Iraque x Noruega — 2026-06-16 18:00 UTC-4
+G-I-02|2026-06-16|I|IRQ|NOR|scheduled||||
+
+# Rodada 12 — Grupo I — França x Iraque — 2026-06-22 17:00 UTC-4
+G-I-03|2026-06-22|I|FRA|IRQ|scheduled||||
+
+# Rodada 12 — Grupo I — Noruega x Senegal — 2026-06-22 20:00 UTC-4
+G-I-04|2026-06-22|I|NOR|SEN|scheduled||||
+
+# Rodada 16 — Grupo I — Noruega x França — 2026-06-26 15:00 UTC-4
+G-I-05|2026-06-26|I|NOR|FRA|scheduled||||
+
+# Rodada 16 — Grupo I — Senegal x Iraque — 2026-06-26 15:00 UTC-4
+G-I-06|2026-06-26|I|SEN|IRQ|scheduled||||
+
+# Rodada 6 — Grupo J — Argentina x Argélia — 2026-06-16 20:00 UTC-5
+G-J-01|2026-06-16|J|ARG|ALG|scheduled||||
+
+# Rodada 6 — Grupo J — Áustria x Jordânia — 2026-06-16 21:00 UTC-7
+G-J-02|2026-06-16|J|AUT|JOR|scheduled||||
+
+# Rodada 12 — Grupo J — Argentina x Áustria — 2026-06-22 12:00 UTC-5
+G-J-03|2026-06-22|J|ARG|AUT|scheduled||||
+
+# Rodada 12 — Grupo J — Jordânia x Argélia — 2026-06-22 20:00 UTC-7
+G-J-04|2026-06-22|J|JOR|ALG|scheduled||||
+
+# Rodada 17 — Grupo J — Argélia x Áustria — 2026-06-27 21:00 UTC-5
+G-J-05|2026-06-27|J|ALG|AUT|scheduled||||
+
+# Rodada 17 — Grupo J — Jordânia x Argentina — 2026-06-27 21:00 UTC-5
+G-J-06|2026-06-27|J|JOR|ARG|scheduled||||
+
+# Rodada 7 — Grupo K — Portugal x RD Congo — 2026-06-17 12:00 UTC-5
+G-K-01|2026-06-17|K|POR|COD|scheduled||||
+
+# Rodada 7 — Grupo K — Uzbequistão x Colômbia — 2026-06-17 20:00 UTC-6
+G-K-02|2026-06-17|K|UZB|COL|scheduled||||
+
+# Rodada 13 — Grupo K — Portugal x Uzbequistão — 2026-06-23 12:00 UTC-5
+G-K-03|2026-06-23|K|POR|UZB|scheduled||||
+
+# Rodada 13 — Grupo K — Colômbia x RD Congo — 2026-06-23 20:00 UTC-6
+G-K-04|2026-06-23|K|COL|COD|scheduled||||
+
+# Rodada 17 — Grupo K — Colômbia x Portugal — 2026-06-27 19:30 UTC-4
+G-K-05|2026-06-27|K|COL|POR|scheduled||||
+
+# Rodada 17 — Grupo K — RD Congo x Uzbequistão — 2026-06-27 19:30 UTC-4
+G-K-06|2026-06-27|K|COD|UZB|scheduled||||
+
+# Rodada 7 — Grupo L — Inglaterra x Croácia — 2026-06-17 15:00 UTC-5
+G-L-01|2026-06-17|L|ENG|CRO|scheduled||||
+
+# Rodada 7 — Grupo L — Gana x Panamá — 2026-06-17 19:00 UTC-4
+G-L-02|2026-06-17|L|GHA|PAN|scheduled||||
+
+# Rodada 13 — Grupo L — Inglaterra x Gana — 2026-06-23 16:00 UTC-4
+G-L-03|2026-06-23|L|ENG|GHA|scheduled||||
+
+# Rodada 13 — Grupo L — Panamá x Croácia — 2026-06-23 19:00 UTC-4
+G-L-04|2026-06-23|L|PAN|CRO|scheduled||||
+
+# Rodada 17 — Grupo L — Panamá x Inglaterra — 2026-06-27 17:00 UTC-4
+G-L-05|2026-06-27|L|PAN|ENG|scheduled||||
+
+# Rodada 17 — Grupo L — Croácia x Gana — 2026-06-27 17:00 UTC-4
+G-L-06|2026-06-27|L|CRO|GHA|scheduled||||
