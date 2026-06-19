@@ -72,7 +72,7 @@ G-C-01|2026-06-13|C|BRA|MAR|finished|1|1|FT|
 G-C-02|2026-06-13|C|HAI|SCO|finished|0|1|FT|
 
 # Rodada 9 — Grupo C — Escócia x Marrocos — 2026-06-19 18:00 UTC-4
-G-C-03|2026-06-19|C|SCO|MAR|scheduled||||
+G-C-03|2026-06-19|C|SCO|MAR|live|0|1|45|
 
 # Rodada 9 — Grupo C — Brasil x Haiti — 2026-06-19 20:30 UTC-4
 G-C-04|2026-06-19|C|BRA|HAI|scheduled||||
