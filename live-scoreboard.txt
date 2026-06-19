@@ -90,7 +90,7 @@ G-D-01|2026-06-12|D|USA|PAR|finished|4|1|FT|
 G-D-02|2026-06-13|D|AUS|TUR|finished|2|0|FT|
 
 # Rodada 9 — Grupo D — Estados Unidos x Austrália — 2026-06-19 12:00 UTC-7
-G-D-03|2026-06-19|D|USA|AUS|scheduled||||
+G-D-03|2026-06-19|D|USA|AUS|finished|2|0|FT|
 
 # Rodada 9 — Grupo D — Turquia x Paraguai — 2026-06-19 20:00 UTC-7
 G-D-04|2026-06-19|D|TUR|PAR|scheduled||||
