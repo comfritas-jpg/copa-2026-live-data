@@ -1,5 +1,5 @@
 MEXMéxico
-AFSÁfrica do Sul
+RSAÁfrica do Sul
 
 Escalação
 Tala Rangel
@@ -128,7 +128,7 @@ Quarto Árbitro
 Azteca
 Estádio
 
-Estatítsicas
+Estatísticas
 Posse de bola
 59%
 Média geral
@@ -188,8 +188,8 @@ Cartão vermelho
 
 
 
-CORCoreia do Sul
-TCHRepública Tcheca
+KORCoreia do Sul
+CZERepública Tcheca
 Kim Seung-Gyu
 1GOL
 Lee Han-Beom
@@ -376,7 +376,7 @@ Cartão vermelho
 
 
 CANCanadá
-BOSBósnia
+BIHBósnia
 Crépeau
 16GOL
 Johnston
@@ -562,7 +562,7 @@ Cartão vermelho
 0
 
 
-Catar
+QATCatar
 SUISuíça
 Abunada
 1GOL
@@ -691,7 +691,7 @@ Santa Clara
 Estádio
 
 
-Estatística
+Estatísticas
 Posse de bola
 35%
 Média geral
@@ -940,7 +940,7 @@ Cartão vermelho
 
 
 HAIHaiti
-ESCEscócia
+SCOEscócia
 Placide
 1GOL
 Arcus
@@ -1127,7 +1127,7 @@ Cartão vermelho
 
 
 
-EUAEstados Unidos
+USAEstados Unidos
 PARParaguai
 Freese
 24GOL
@@ -1504,8 +1504,8 @@ Cartão vermelho
 
 
 
-ALEAlemanha
-CURCuraçao
+GERAlemanha
+CUWCuraçao
 Neuer
 1GOL
 Kimmich
@@ -1692,8 +1692,8 @@ Cartão vermelho
 0
 
 
-CDMCosta do Marfim
-EQUEquador
+CIVCosta do Marfim
+ECUEquador
 Yahia Fofana
 1GOL
 Doué
@@ -1879,7 +1879,7 @@ Cartão vermelho
 
 
 
-HOLHolanda
+NEDHolanda
 JAPJapão
 Verbruggen
 1GOL
@@ -2007,7 +2007,7 @@ Quarto Árbitro
 Dallas
 Estádio
 
-Estetísticas
+Estatísticas
 Posse de bola
 56%
 Média geral
@@ -2066,7 +2066,7 @@ Cartão vermelho
 0
 
 
-SUESuécia
+SWESuécia
 TUNTunísia
 Nordfeldt
 23GOL
@@ -2260,7 +2260,7 @@ Cartão vermelho
 
 
 BELBélgica
-EGIEgito
+EGYEgito
 Courtois
 1GOL
 Meunier
@@ -2447,8 +2447,8 @@ Cartão vermelho
 
 
 
-IRAIrã
-NZENova Zelândia
+IRNIrã
+NZLNova Zelândia
 Beiranvand
 1GOL
 Rezaeian
@@ -2575,7 +2575,7 @@ Los Angeles
 Estádio
 
 
-Estatítiscas
+Estatísticas
 Posse de bola
 50%
 Média geral
@@ -2638,7 +2638,7 @@ Cartão vermelho
 
 
 ESPEspanha
-CABCabo Verde
+CPVCabo Verde
 Unai Simón
 23GOL
 Llorente
@@ -2825,7 +2825,7 @@ Cartão vermelho
 0
 
 
-SAUArábia Saudita
+KSAArábia Saudita
 URUUruguai
 Al-Owais
 21GOL
@@ -3007,3 +3007,2209 @@ Cartão amarelo
 0
 Cartão vermelho
 0
+
+
+FRAFrança
+SENSenegal
+Maignan
+16GOL
+Koundé
+5LAD
+Upamecano
+4ZAD
+Saliba
+17ZAE
+Theo Hernández
+19LAE
+Tchouaméni
+8VOL
+Rabiot
+14VOL
+Olise
+11MEC
+Dembélé
+7MEC
+Barcola
+12ATA
+Doué
+20MEC
+Cherki
+24MEC
+Mbappé
+(2)
+10ATA
+Édouard Mendy
+16GOL
+Diatta
+15LAD
+Koulibaly
+3ZAD
+Niakhaté
+19ZAE
+El Hadji Diouf
+25LAE
+Gana Gueye
+5VOL
+Ciss
+6VOL
+Pape Gueye
+26VOL
+Iliman Ndiaye
+13ATA
+Camara
+8MEC
+Diarra
+21VOL
+Ismaïla Sarr
+18ATA
+Mbaye
+20ATA
+Jackson
+11ATA
+Dieng
+9ATA
+Mané
+10ATA
+Didier Deschamps
+Técnico
+4 - 5 - 1
+Esquema tático
+Pape Thiaw
+Técnico
+4 - 3 - 3
+Esquema tático
+
+Reservas
+Samba
+1GOL
+Risser
+23GOL
+Gusto
+2LAD
+Digne
+3LAE
+Konaté
+15ZAD
+Lacroix
+26ZAD
+Lucas Hernández
+21ZAE
+Koné
+6VOL
+Kanté
+13VOL
+Zaire-Emery
+18VOL
+Akliouche
+25MEC
+Thuram
+9ATA
+Mateta
+22ATA
+Yehvann Diouf
+1GOL
+Diaw
+23GOL
+Antoine Mendy
+24LAD
+Jakobs
+14LAE
+Mamadou Sarr
+2ZAD
+Seck
+4ZAD
+Pape Sarr
+17VOL
+Bara Ndiaye
+22VOL
+Diao
+7ATA
+Chérif Ndiaye
+12ATA
+Informações sobre o jogo
+Alireza Faghani
+Árbitro
+George Lakrindis
+Assistente
+Andrew Lindsay
+Assistente
+Sandro Schärer
+Quarto Árbitro
+Nova Jersey
+Estádio
+
+Estatísticas
+Passes
+560
+Total de Passes
+488
+86%
+% passes certos
+86%
+76
+Passes errados
+70
+Ataque
+11
+Finalizações
+6
+(1)
+Pra fora
+(2)
+(8)
+No gol
+(2)
+0
+Na trave
+1
+2
+Bloqueadas
+1
+0
+Pênaltis
+0
+0
+Escanteios
+0
+1
+Impedimentos
+3
+Defesa
+3
+Total de defesas
+5
+15
+Desarmes
+14
+Disciplina
+5
+Faltas cometidas
+9
+0
+Cartão amarelo
+0
+0
+Cartão vermelho
+0
+
+IRQIraque
+NORNoruega
+Jalal Hassan
+12GOL
+Hussein Ali
+3LAD
+Saadoon
+25LAD
+Tahseen
+4ZAD
+Akam Hashem
+5ZAE
+Doski
+23LAE
+Zaid Ismail
+24VOL
+Iqbal
+14VOL
+Al-Ammari
+16VOL
+Bayesh
+8MEC
+Mohanad Ali
+10ATA
+Ali Jasim
+17MEC
+Qasem
+11MEC
+Aymen Hussein
+18ATA
+Al-Hamadi
+9ATA
+Farji
+21ATA
+Nyland
+1GOL
+Ryerson
+26LAD
+Ajer
+3ZAD
+Heggem
+17ZAE
+Wolfe
+5LAE
+Östigaard
+4ZAD
+Berge
+8VOL
+Aursnes
+14VOL
+Thorstvedt
+18VOL
+Ödegaard
+10MEC
+Berg
+6VOL
+Nusa
+20MEC
+Schjelderup
+21ATA
+Sörloth
+7ATA
+Bobb
+22ATA
+Haaland
+(2)
+9ATA
+Graham Arnold
+Técnico
+4 - 4 - 2
+Esquema tático
+Staale Solbakken
+Técnico
+4 - 4 - 2
+Esquema tático
+
+Reservas
+Talib
+1GOL
+Basil
+22GOL
+Sulaka
+2ZAD
+Manaf Younis
+6ZAD
+Putros
+26ZAD
+Maknzi
+15LAE
+Yakob
+19VOL
+Sher
+20VOL
+Amyn
+7MEC
+Ali Yousif
+13ATA
+Tangvik
+12GOL
+Selvik
+13GOL
+Pedersen
+16LAD
+Langaas
+24ZAD
+Falchener
+25ZAD
+Björkan
+15LAE
+Thorsby
+2MEC
+Aasgaard
+19MEC
+Larsen
+11ATA
+Hauge
+23ATA
+Informações sobre o jogo
+Pierre Atcho
+Árbitro
+Boris Ditsoga
+Assistente
+Amos Abeigne
+Assistente
+Amin Mohamed Omar
+Quarto Árbitro
+Boston
+Estádio
+
+
+Estatísticas
+Passes
+350
+Total de Passes
+548
+81%
+% passes certos
+88%
+66
+Passes errados
+64
+Ataque
+10
+Finalizações
+12
+(9)
+Pra fora
+(5)
+(1)
+No gol
+(6)
+0
+Na trave
+0
+0
+Bloqueadas
+1
+0
+Pênaltis
+0
+0
+Escanteios
+0
+1
+Impedimentos
+0
+Defesa
+5
+Total de defesas
+2
+15
+Desarmes
+5
+Disciplina
+12
+Faltas cometidas
+13
+1
+Cartão amarelo
+0
+0
+Cartão vermelho
+0
+
+
+ARGArgentina
+ALGArgélia
+Dibu Martínez
+23GOL
+Montiel
+4LAD
+Molina
+26LAD
+Cuti Romero
+13ZAD
+Otamendi
+19ZAD
+Lisandro Martínez
+6ZAE
+Medina
+25LAE
+Mac Allister
+20VOL
+Enzo Fernández
+24VOL
+De Paul
+7MEC
+Almada
+16MEC
+Nico González
+15ATA
+Messi
+(3)
+10ATA
+Nico Paz
+18MEC
+Lautaro Martínez
+22ATA
+Julián Álvarez
+9ATA
+Zidane
+23GOL
+Belghali
+17LAD
+Mandi
+2ZAD
+Bensebaini
+21ZAE
+Aït-Nouri
+15LAE
+Bentaleb
+19VOL
+Zerrouki
+6VOL
+Boudaoui
+14VOL
+Aouar
+8MEC
+Maza
+22VOL
+Boulbina
+20ATA
+Hadj Moussa
+11ATA
+Mahrez
+7ATA
+Gouiri
+9ATA
+Amoura
+18ATA
+Chaïbi
+10ATA
+Lionel Scaloni
+Técnico
+4 - 4 - 2
+Esquema tático
+Vladimir Petkovic
+Técnico
+4 - 3 - 3
+Esquema tático
+
+Reservas
+Musso
+1GOL
+Rulli
+12GOL
+Senesi
+2ZAE
+Tagliafico
+3LAE
+Paredes
+5VOL
+Barco
+8VOL
+Palacios
+14VOL
+Lo Celso
+11MEC
+Simeone
+17ATA
+Flaco López
+21ATA
+Mastil
+1GOL
+Benbot
+16GOL
+Chergui
+26LAD
+Abada
+3ZAD
+Tougai
+4ZAD
+Belaïd
+5ZAD
+Hadjam
+13LAE
+Titraoui
+24VOL
+Benbouali
+12ATA
+Ghedjemis
+25ATA
+Informações sobre o jogo
+Szymon Marciniak
+Árbitro
+Tomasz Listkiewicz
+Assistente
+Adam Kupsik
+Assistente
+Campbell-Kirk Kawana-Waugh
+Quarto Árbitro
+Kansas City
+Estádio
+
+
+Estatísticas
+Passes
+559
+Total de Passes
+592
+90%
+% passes certos
+92%
+58
+Passes errados
+48
+Ataque
+10
+Finalizações
+7
+(4)
+Pra fora
+(4)
+(6)
+No gol
+(0)
+0
+Na trave
+0
+0
+Bloqueadas
+3
+0
+Pênaltis
+0
+0
+Escanteios
+0
+3
+Impedimentos
+1
+Defesa
+2
+Total de defesas
+2
+23
+Desarmes
+15
+Disciplina
+12
+Faltas cometidas
+8
+0
+Cartão amarelo
+0
+0
+Cartão vermelho
+0
+
+
+AUTÁustria
+JORJordânia
+Alexander Schlager
+1GOL
+Posch
+5LAD
+Lienhart
+15ZAD
+Alaba
+8ZAE
+Danso
+3ZAD
+Mwene
+16LAE
+Wanner
+24MEC
+Seiwald
+6VOL
+Xaver Schlager
+4VOL
+Chukwuemeka
+17VOL
+Schmid
+18MEC
+Wimmer
+21MEC
+Laimer
+20MEC
+Sabitzer
+9MEC
+Kalajdzic
+14ATA
+Arnautovic
+7ATA
+Abulaila
+1GOL
+Nasib
+3ZAD
+Al-Rosan
+19ZAD
+Al-Arab
+5ZAG
+Abualnadi
+16ZAE
+Obaid
+17ZAE
+Haddad
+23LAD
+Al-Mardi
+13ATA
+Al-Rashdan
+21VOL
+Al-Rawabdeh
+8VOL
+Abu Taha
+20LAE
+Odeh Fakhoury
+11ATA
+Azaizeh
+24ATA
+Al-Tamari
+10ATA
+Al-Dawoud
+25VOL
+Olwan
+9ATA
+Ralf Rangnick
+Técnico
+4 - 5 - 1
+Esquema tático
+Jamal Sellami
+Técnico
+3 - 4 - 3
+Esquema tático
+
+Reservas
+Wiegele
+12GOL
+Pentz
+13GOL
+Affengruber
+2ZAD
+Svoboda
+25ZAD
+Friedl
+23ZAE
+Prass
+22LAE
+Grillitsch
+10VOL
+Ljubicic
+19VOL
+Schöpf
+26VOL
+Gregoritsch
+11ATA
+Bani Attiah
+12GOL
+Abdallah Al-Fakhouri
+22GOL
+Badawi
+26LAD
+Abu Dahab
+4ZAE
+Abu Hasheesh
+2LAE
+Abu Ghoush
+18LAE
+Jamous
+6VOL
+Ayed
+14VOL
+Saadeh
+15VOL
+Abu Zraiq
+7ATA
+Informações sobre o jogo
+Dahane Beida
+Árbitro
+Jerson Emiliano
+Assistente
+Elvis Noupue
+Assistente
+Oshane Nation
+Quarto Árbitro
+Santa Clara
+Estádio
+
+
+Estatísticas
+Passes
+596
+Total de Passes
+343
+86%
+% passes certos
+75%
+83
+Passes errados
+86
+Ataque
+9
+Finalizações
+11
+(3)
+Pra fora
+(3)
+(3)
+No gol
+(4)
+0
+Na trave
+1
+3
+Bloqueadas
+3
+0
+Pênaltis
+0
+0
+Escanteios
+0
+3
+Impedimentos
+1
+Defesa
+6
+Total de defesas
+3
+17
+Desarmes
+13
+Disciplina
+12
+Faltas cometidas
+6
+1
+Cartão amarelo
+0
+0
+Cartão vermelho
+0
+
+
+PORPortugal
+CODRD Congo
+Diogo Costa
+1GOL
+João Cancelo
+20LAD
+Tomás Araújo
+4ZAD
+Renato Veiga
+13ZAE
+Nuno Mendes
+25LAE
+Semedo
+2LAD
+João Neves
+15VOL
+Vitinha
+23VOL
+Gonçalo Ramos
+9ATA
+Bernardo Silva
+10MEC
+Francisco Conceição
+26ATA
+Bruno Fernandes
+8MEC
+Pedro Neto
+18MEC
+Rafael Leão
+17ATA
+Cristiano Ronaldo
+7ATA
+Mpasi
+1GOL
+Wan-Bissaka
+2LAD
+Kalulu
+24LAD
+Mbemba
+22ZAD
+Tuanzebe
+4ZAG
+Kapuadi
+3ZAE
+Masuaku
+26LAE
+Joris Kayembe
+12LAE
+Moutoussamy
+8VOL
+Mukau
+6VOL
+Sadiki
+14VOL
+Edo Kayembe
+25VOL
+Pickel
+18VOL
+Wissa
+20ATA
+Bakambu
+17ATA
+Banza
+23ATA
+Roberto Martínez
+Técnico
+4 - 5 - 1
+Esquema tático
+Sébastien Desabre
+Técnico
+5 - 3 - 2
+Esquema tático
+
+Reservas
+José Sá
+12GOL
+Rui Silva
+22GOL
+Dalot
+5LAD
+Matheus Nunes
+6LAD
+Rúben Dias
+3ZAD
+Gonçalo Inácio
+14ZAE
+Rúben Neves
+21VOL
+Samú Costa
+24VOL
+Trincão
+16MEC
+João Félix
+11ATA
+Gonçalo Guedes
+19ATA
+Fayulu
+16GOL
+Epolo
+21GOL
+Batubinsika
+5ZAD
+Tshibola
+15VOL
+Mbuku
+7MEC
+Kakuta
+11MEC
+Elia
+13MEC
+Cipenga
+9ATA
+Bongonda
+10ATA
+Mayele
+19ATA
+Informações sobre o jogo
+Abdulrahman Al-Jassim
+Árbitro
+Taleb Al Marri
+Assistente
+Saoud Ahmed Almaqaleh
+Assistente
+Abongile Tom
+Quarto Árbitro
+Houston
+Estádio
+
+
+Estatísticas
+Passes
+795
+Total de Passes
+235
+91%
+% passes certos
+78%
+68
+Passes errados
+52
+Ataque
+7
+Finalizações
+8
+(4)
+Pra fora
+(5)
+(1)
+No gol
+(2)
+0
+Na trave
+0
+2
+Bloqueadas
+1
+0
+Pênaltis
+0
+0
+Escanteios
+0
+3
+Impedimentos
+2
+Defesa
+3
+Total de defesas
+2
+13
+Desarmes
+12
+Disciplina
+9
+Faltas cometidas
+9
+3
+Cartão amarelo
+1
+0
+Cartão vermelho
+0
+
+
+UZBUzbequistão
+COLColômbia
+Yusupov
+1GOL
+Khusanov
+2ZAD
+Abdullaev
+18ZAG
+Ashurmatov
+5ZAE
+Urozov
+26ZAE
+Karimov
+24LAD
+Mozgovoy
+6VOL
+Shukurov
+7VOL
+Fayzullaev
+22MEC
+Amanov
+20ATA
+Urunov
+11MEC
+Khamdamov
+17MEC
+Nasrullaev
+13LAE
+Sayfiev
+4LAE
+Shomurodov
+14ATA
+Sergeev
+21ATA
+Vargas
+12GOL
+Muñoz
+2LAD
+Davinson Sánchez
+23ZAD
+Lucumí
+3ZAE
+Mojica
+17LAE
+Lerma
+16VOL
+Puerta
+14MEC
+Richard Ríos
+6VOL
+Jhon Arias
+11MEC
+Castaño
+5VOL
+James Rodríguez
+10ATA
+Campaz
+21MEC
+Luis Suárez
+25ATA
+Cucho Hernández
+19ATA
+Luis Díaz
+7ATA
+Andrés Gómez
+26ATA
+Fabio Cannavaro
+Técnico
+3 - 6 - 1
+Esquema tático
+Néstor Lorenzo
+Técnico
+4 - 3 - 3
+Esquema tático
+
+Reservas
+Nematov
+12GOL
+Ergashev
+16GOL
+Alizhonov
+3LAD
+Eshmurodov
+15ZAD
+Ulmasaliev
+25ZAD
+Khamrobekov
+9VOL
+Ganiev
+19VOL
+Esanov
+23VOL
+Iskanderov
+8MEC
+Jiyanov
+10ATA
+Ospina
+1GOL
+Álvaro Montero
+24GOL
+Santi Arias
+4LAD
+Mina
+13ZAD
+Ditta
+18ZAD
+Deiver Machado
+22LAE
+Portilla
+15VOL
+Carrascal
+8MEC
+Quintero
+20MEC
+Córdoba
+9ATA
+Informações sobre o jogo
+Anthony Taylor
+Árbitro
+Gary Beswick
+Assistente
+Adam Nunn
+Assistente
+Juan Calderón
+Quarto Árbitro
+Azteca
+Estádio
+
+
+Estatísticas
+Posse de bola
+40%
+Média geral
+60%
+Passes
+342
+Total de Passes
+524
+78%
+% passes certos
+86%
+76
+Passes errados
+73
+Ataque
+6
+Finalizações
+14
+(2)
+Pra fora
+(6)
+(2)
+No gol
+(4)
+1
+Na trave
+1
+1
+Bloqueadas
+3
+0
+Pênaltis
+0
+3
+Escanteios
+5
+0
+Impedimentos
+3
+Defesa
+5
+Total de defesas
+3
+10
+Desarmes
+8
+Disciplina
+14
+Faltas cometidas
+11
+1
+Cartão amarelo
+1
+0
+Cartão vermelho
+0
+
+
+ENGInglaterra
+CROCroácia
+Pickford
+1GOL
+Reece James
+24LAD
+Konsa
+2ZAD
+Stones
+5ZAE
+Guéhi
+6ZAD
+O'Reilly
+3LAE
+Elliot Anderson
+8VOL
+Rice
+4VOL
+Rogers
+17MEC
+Bellingham
+10MEC
+Spence
+25LAE
+Madueke
+20ATA
+Saka
+7ATA
+Harry Kane
+(2)
+9ATA
+Gordon
+18ATA
+Rashford
+11ATA
+Livakovic
+1GOL
+Sutalo
+6ZAD
+Vuskovic
+22ZAG
+Marco Pasalic
+24ATA
+Gvardiol
+4ZAE
+Stanisic
+2LAD
+Mario Pasalic
+15VOL
+Kramaric
+9ATA
+Modric
+10VOL
+Kovacic
+8VOL
+Petar Sucic
+17MEC
+Baturina
+16MEC
+Vlasic
+13MEC
+Perisic
+14LAE
+Musa
+26ATA
+Matanovic
+20ATA
+Thomas Tuchel
+Técnico
+4 - 3 - 3
+Esquema tático
+Zlatko Dalic
+Técnico
+3 - 6 - 1
+Esquema tático
+
+Reservas
+Dean Henderson
+13GOL
+Trafford
+23GOL
+Quansah
+26ZAD
+Burn
+15ZAE
+Jordan Henderson
+14VOL
+Mainoo
+16VOL
+Eze
+21MEC
+Watkins
+19ATA
+Toney
+22ATA
+Pandur
+12GOL
+Kotarski
+23GOL
+Jakic
+18LAD
+Pongracic
+3ZAD
+Caleta-Car
+5ZAD
+Erlic
+25ZAD
+Moro
+7VOL
+Luka Sucic
+21VOL
+Fruk
+19MEC
+Budimir
+11ATA
+Informações sobre o jogo
+Clément Turpin
+Árbitro
+Nicolas Danos
+Assistente
+Benjamin Pagès
+Assistente
+Katia Itzel García
+Quarto Árbitro
+Dallas
+Estádio
+
+
+Estatísticas
+Passes
+492
+Total de Passes
+446
+87%
+% passes certos
+85%
+65
+Passes errados
+68
+Ataque
+20
+Finalizações
+10
+(5)
+Pra fora
+(3)
+(12)
+No gol
+(5)
+0
+Na trave
+0
+3
+Bloqueadas
+2
+1
+Pênaltis
+0
+0
+Escanteios
+0
+0
+Impedimentos
+1
+Defesa
+4
+Total de defesas
+7
+13
+Desarmes
+11
+Disciplina
+10
+Faltas cometidas
+11
+0
+Cartão amarelo
+0
+0
+Cartão vermelho
+0
+
+
+GHAGana
+PANPanamá
+Ati Zigi
+1GOL
+Asare
+16GOL
+Senaya
+26LAD
+Adjetey
+4ZAD
+Opoku
+18ZAE
+Mensah
+14LAE
+Owusu
+15VOL
+Sibo
+8VOL
+Yirenkyi
+3MEC
+Sulemana
+22MEC
+Thomas-Asante
+10ATA
+Nuamah
+24ATA
+Fatawu
+7ATA
+Ayew
+9ATA
+Adu
+25ATA
+Semenyo
+11ATA
+Mosquera
+22GOL
+Jiovany Ramos
+13ZAD
+Córdoba
+3ZAG
+Andrés Andrade
+16ZAE
+Murillo
+23LAD
+Harvey
+14VOL
+Bárcenas
+11VOL
+Cristian Martínez
+6MEC
+Londoño
+24ATA
+Puma Rodríguez
+7MEC
+Ismael Díaz
+10ATA
+Blackman
+2LAE
+Godoy
+20VOL
+Waterman
+18ATA
+Fajardo
+17ATA
+Carlos Queiroz
+Técnico
+4 - 3 - 3
+Esquema tático
+Thomas Christiansen
+Técnico
+3 - 6 - 1
+Esquema tático
+Reservas
+Anang
+12GOL
+Seidu
+2ZAD
+Mumin
+6ZAD
+Baba
+17LAE
+Peprah Oppong
+21ZAD
+Luckassen
+23ZAD
+Boakye
+20MEC
+Bonsu Baah
+13ATA
+Iñaki Williams
+19ATA
+Mejía
+1GOL
+Samudio
+12GOL
+Escobar
+4ZAD
+Fariña
+5ZAD
+Miller
+25ZAE
+Davis
+15LAE
+Gutiérrez
+26LAE
+Carrasquilla
+8VOL
+Quintero
+19MEC
+Yanis
+21MEC
+Tomás Rodríguez
+9ATA
+Informações sobre o jogo
+Glenn Nyberg
+Árbitro
+Mahbod Beigi
+Assistente
+Andreas Söderkvist
+Assistente
+Khalid Saleh Alturais
+Quarto Árbitro
+Toronto Field
+Estádio
+
+
+Estatísticas
+
+
+Passes
+365
+Total de Passes
+573
+82%
+% passes certos
+86%
+64
+Passes errados
+82
+Ataque
+7
+Finalizações
+10
+(3)
+Pra fora
+(4)
+(3)
+No gol
+(4)
+0
+Na trave
+0
+1
+Bloqueadas
+2
+0
+Pênaltis
+0
+0
+Escanteios
+0
+4
+Impedimentos
+1
+Defesa
+6
+Total de defesas
+3
+17
+Desarmes
+15
+Disciplina
+9
+Faltas cometidas
+11
+1
+Cartão amarelo
+2
+0
+Cartão vermelho
+0
+
+
+
+CZERepública Tcheca
+RSAÁfrica do Sul
+Kovár
+1GOL
+Coufal
+5LAD
+Hranác
+4ZAG
+Krejcí
+7ZAE
+Holes
+3ZAD
+Cerv
+12VOL
+Zima
+2ZAD
+Sadílek
+18VOL
+Soucek
+22VOL
+Sojka
+24VOL
+Sulc
+15MEC
+Darida
+8MEC
+Zeleny
+20LAE
+Schick
+10ATA
+Hlozek
+9ATA
+Provod
+17MEC
+Williams
+1GOL
+Mudau
+20LAD
+Okon
+21ZAG
+Mbokazi
+14ZAE
+Modiba
+6LAE
+Mbatha
+5VOL
+Mokoena
+4MEC
+Adams
+23MEC
+Mofokeng
+10MEC
+Appollis
+7ATA
+Rayners
+15ATA
+Makgopa
+17ATA
+Maseko
+12ATA
+Sebelebele
+25MEC
+Miroslav Koubek
+Técnico
+4 - 4 - 2
+Esquema tático
+Hugo Broos
+Técnico
+5 - 3 - 2
+Esquema tático
+
+Reservas
+Stanek
+16GOL
+Hornícek
+23GOL
+Doudera
+21LAD
+Chaloupek
+6ZAD
+Sochurek
+25VOL
+Visinsky
+26MEC
+Kuchta
+11ATA
+Chytil
+13ATA
+Chory
+19ATA
+Chaine
+16GOL
+Goss
+22GOL
+Matuludi
+2LAD
+Kabini
+18LAE
+Cross
+26LAE
+Ndamane
+3ZAD
+Sibisi
+19ZAD
+Makhanya
+24ZAD
+Moremi
+8MEC
+Foster
+9ATA
+Informações sobre o jogo
+Tori Penso
+Árbitro
+Brooke Mayo
+Assistente
+Kathryn Nesbitt
+Assistente
+Campbell-Kirk Kawana-Waugh
+Quarto Árbitro
+Atlanta
+Estádio
+
+
+Estatísticas
+Passes
+317
+Total de Passes
+553
+80%
+% passes certos
+88%
+63
+Passes errados
+65
+Ataque
+12
+Finalizações
+16
+(5)
+Pra fora
+(6)
+(3)
+No gol
+(4)
+0
+Na trave
+0
+4
+Bloqueadas
+6
+0
+Pênaltis
+0
+0
+Escanteios
+0
+2
+Impedimentos
+3
+Defesa
+11
+Total de defesas
+6
+9
+Desarmes
+17
+Disciplina
+11
+Faltas cometidas
+10
+1
+Cartão amarelo
+2
+0
+Cartão vermelho
+0
+
+
+MEXMéxico
+KORCoreia do Sul
+Tala Rangel
+1GOL
+Edson Álvarez
+4LAD
+Jorge Sánchez
+2ZAD
+Vásquez
+5ZAE
+Gallardo
+23LAE
+Érik Lira
+6VOL
+Romo
+7VOL
+Vargas
+18VOL
+Gutiérrez
+26MEC
+Pineda
+17MEC
+Alvarado
+25ATA
+Israel Reyes
+15LAD
+Raúl Jiménez
+9ATA
+Santi Giménez
+11ATA
+Quiñones
+16ATA
+Huerta
+21ATA
+Kim Seung-Gyu
+1GOL
+Kim Moon-Hwan
+15LAD
+Eom Ji-Sung
+25ATA
+Lee Han-Beom
+2ZAD
+Lee Gi-Hyuk
+3ZAG
+Kim Min-Jae
+4ZAE
+Seol Young-Woo
+22LAE
+Yang Hyun-Jun
+20ATA
+Hwang In-Beom
+6VOL
+Paik Seung-Ho
+8VOL
+Cho Gue-Sung
+9ATA
+Lee Kang-In
+19MEC
+Lee Jae-Sung
+10MEC
+Hwang Hee-Chan
+11ATA
+Son Heung-Min
+7ATA
+Oh Hyeon-Gyu
+18ATA
+Javier Aguirre
+Técnico
+4 - 3 - 3
+Esquema tático
+Hong Myung-Bo
+Técnico
+5 - 4 - 1
+Esquema tático
+
+Reservas
+Acevedo
+12GOL
+Ochoa
+13GOL
+Mateo Chávez
+20LAE
+Luis Chávez
+24VOL
+Fidalgo
+8MEC
+Gilberto Mora
+19MEC
+Vega
+10ATA
+Armando González
+14ATA
+Guillermo Martínez
+22ATA
+Song Bum-Keun
+12GOL
+Jo Hyeon-Woo
+21GOL
+Cho Wi-Je
+14ZAD
+Kim Tae-Hyeon
+5ZAE
+Lee Tae-Seok
+13LAE
+Castrop
+23LAE
+Park Jin-Seob
+16VOL
+Bae Jun-Ho
+17MEC
+Kim Jin-Gyu
+24MEC
+Lee Dong-Gyeong
+26MEC
+Informações sobre o jogo
+Gustavo Tejera
+Árbitro
+Carlos Barreiro
+Assistente
+Nicolás Tarán
+Assistente
+Andrés Rojas
+Quarto Árbitro
+Akron
+Estádio
+
+
+Estatísticas
+Posse de bola
+42%
+Média geral
+58%
+Passes
+435
+Total de Passes
+543
+82%
+% passes certos
+87%
+78
+Passes errados
+73
+Ataque
+8
+Finalizações
+8
+(1)
+Pra fora
+(4)
+(4)
+No gol
+(2)
+0
+Na trave
+0
+3
+Bloqueadas
+2
+0
+Pênaltis
+0
+0
+Escanteios
+2
+3
+Impedimentos
+6
+Defesa
+3
+Total de defesas
+2
+11
+Desarmes
+8
+Disciplina
+9
+Faltas cometidas
+7
+0
+Cartão amarelo
+2
+0
+Cartão vermelho
+0
+
+
+
+SUISuíça
+BIHBósnia
+Kobel
+1GOL
+Widmer
+3LAD
+Jaquez
+25ZAD
+Elvedi
+4ZAD
+Akanji
+5ZAE
+Ricardo Rodríguez
+13LAE
+Aebischer
+20VOL
+Sow
+15VOL
+Freuler
+8VOL
+Xhaka
+10MEC
+Rieder
+22ATA
+Vargas
+17MEC
+Embolo
+7ATA
+Itten
+26ATA
+Ndoye
+11ATA
+Manzambi
+(2)
+9VOL
+Vasilj
+1GOL
+Dedic
+7LAD
+Muharemovic
+4ZAD
+Katic
+18ZAE
+Kolasinac
+5LAE
+Tahirovic
+6VOL
+Basic
+13VOL
+Sunjic
+14VOL
+Hadziahmetovic
+16VOL
+Memic
+15MEC
+Alajbegovic
+19MEC
+Mahmic
+26MEC
+Demirovic
+10ATA
+Lukic
+25ATA
+Dzeko
+11ATA
+Bajraktarevic
+20MEC
+Murat Yakin
+Técnico
+4 - 3 - 3
+Esquema tático
+Sergej Barbarez
+Técnico
+4 - 4 - 2
+Esquema tático
+
+Reservas
+Mvogo
+12GOL
+Keller
+21GOL
+Cömert
+18ZAD
+Amenda
+24ZAD
+Zakaria
+6VOL
+Jashari
+14VOL
+Fassnacht
+16MEC
+Okafor
+19ATA
+Amdouni
+23ATA
+Jurkas
+12GOL
+Zlomislic
+22GOL
+Malic
+24LAD
+Hadzikadunic
+3ZAD
+Mujakic
+2ZAE
+Radeljic
+21ZAE
+Gigovic
+8VOL
+Burnic
+17VOL
+Bazdar
+9ATA
+Tabakovic
+23ATA
+Informações sobre o jogo
+João Pinheiro
+Árbitro
+Bruno Jesus
+Assistente
+Luciano Maia
+Assistente
+Yusuke Araki
+Quarto Árbitro
+Los Angeles
+Estádio
+
+Estatísticas
+Passes
+603
+Total de Passes
+338
+88%
+% passes certos
+82%
+73
+Passes errados
+60
+Ataque
+13
+Finalizações
+4
+(5)
+Pra fora
+(0)
+(8)
+No gol
+(3)
+0
+Na trave
+0
+0
+Bloqueadas
+1
+1
+Pênaltis
+0
+0
+Escanteios
+0
+3
+Impedimentos
+1
+Defesa
+3
+Total de defesas
+5
+9
+Desarmes
+16
+Disciplina
+7
+Faltas cometidas
+17
+1
+Cartão amarelo
+2
+0
+Cartão vermelho
+1
+
+
+CANCanadá
+QATCatar
+Crépeau
+16GOL
+Johnston
+2LAD
+De Fougerolles
+4ZAD
+Shaffelburg
+14MEC
+Cornelius
+13ZAE
+Bombito
+15ZAD
+Laryea
+22LAE
+Eustáquio
+7VOL
+Koné
+8VOL
+Saliba
+25VOL
+Buchanan
+17MEC
+Sigur
+23LAD
+Ahmed
+20MEC
+Oluwaseyi
+12ATA
+Jonathan David
+(3)
+10ATA
+Larin
+9ATA
+Abunada
+1GOL
+Al-Oui
+13LAD
+Pedro Miguel
+2ZAD
+Khoukhi
+16ZAE
+Homam Ahmed
+14LAE
+Jassem Gaber
+5VOL
+Manai
+26MEC
+Gueye Laye
+4VOL
+Edmilson Junior
+8MEC
+Fathi
+20VOL
+Lucas Mendes
+3ZAE
+Madibo
+23MEC
+Afif
+11MEC
+Al-Hussain
+25ZAD
+Abdurisag
+15ATA
+Al-Brake
+18LAE
+Jesse Marsch
+Técnico
+4 - 4 - 2
+Esquema tático
+Julen Lopetegui
+Técnico
+4 - 2 - 3 - 1
+Esquema tático
+Reservas
+St. Clair
+1GOL
+Goodman
+18GOL
+Waterman
+5ZAD
+Davies
+19LAE
+Choinière
+6VOL
+Osorio
+21VOL
+Millar
+11MEC
+Nelson
+26MEC
+Promise David
+24ATA
+Salah Zakaria
+21GOL
+Barsham
+22GOL
+Hatim Mohamed
+6VOL
+Boudiaf
+12VOL
+Al-Haydos
+10MEC
+Al-Ganehi
+17MEC
+Alaaeldin
+7ATA
+Muntari
+9ATA
+Almoez Ali
+19ATA
+Tahsin Jamshid
+24ATA
+Informações sobre o jogo
+Cristián Garay
+Árbitro
+José Retamal
+Assistente
+Miguel Rocha
+Assistente
+Kevin Ortega
+Quarto Árbitro
+Vancouver Place
+Estádio
+
+Estatísticas
+Passes
+630
+Total de Passes
+138
+86%
+% passes certos
+68%
+86
+Passes errados
+44
+Ataque
+28
+Finalizações
+2
+(7)
+Pra fora
+(2)
+(10)
+No gol
+(0)
+0
+Na trave
+0
+11
+Bloqueadas
+0
+0
+Pênaltis
+0
+0
+Escanteios
+0
+1
+Impedimentos
+1
+Defesa
+1
+Total de defesas
+17
+8
+Desarmes
+14
+Disciplina
+9
+Faltas cometidas
+10
+1
+Cartão amarelo
+1
+0
+Cartão vermelho
+2
+
+
